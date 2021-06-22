@@ -1,0 +1,13 @@
+C:\ProgramStudy2\progaram2\derigate\derigate\obj\Debug\netcoreapp3.1\derigate.csprojAssemblyReference.cache
+C:\ProgramStudy2\progaram2\derigate\derigate\obj\Debug\netcoreapp3.1\derigate.AssemblyInfoInputs.cache
+C:\ProgramStudy2\progaram2\derigate\derigate\obj\Debug\netcoreapp3.1\derigate.AssemblyInfo.cs
+C:\ProgramStudy2\progaram2\derigate\derigate\obj\Debug\netcoreapp3.1\derigate.csproj.CoreCompileInputs.cache
+C:\ProgramStudy2\progaram2\derigate\derigate\bin\Debug\netcoreapp3.1\derigate.exe
+C:\ProgramStudy2\progaram2\derigate\derigate\bin\Debug\netcoreapp3.1\derigate.deps.json
+C:\ProgramStudy2\progaram2\derigate\derigate\bin\Debug\netcoreapp3.1\derigate.runtimeconfig.json
+C:\ProgramStudy2\progaram2\derigate\derigate\bin\Debug\netcoreapp3.1\derigate.runtimeconfig.dev.json
+C:\ProgramStudy2\progaram2\derigate\derigate\bin\Debug\netcoreapp3.1\derigate.dll
+C:\ProgramStudy2\progaram2\derigate\derigate\bin\Debug\netcoreapp3.1\derigate.pdb
+C:\ProgramStudy2\progaram2\derigate\derigate\obj\Debug\netcoreapp3.1\derigate.dll
+C:\ProgramStudy2\progaram2\derigate\derigate\obj\Debug\netcoreapp3.1\derigate.pdb
+C:\ProgramStudy2\progaram2\derigate\derigate\obj\Debug\netcoreapp3.1\derigate.genruntimeconfig.cache

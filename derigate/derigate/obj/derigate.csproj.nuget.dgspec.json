@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProgramStudy2\\新しいフォルダー\\derigate\\derigate\\derigate.csproj": {}
+    "C:\\ProgramStudy2\\progaram2\\derigate\\derigate\\derigate.csproj": {}
   },
   "projects": {
-    "C:\\ProgramStudy2\\新しいフォルダー\\derigate\\derigate\\derigate.csproj": {
+    "C:\\ProgramStudy2\\progaram2\\derigate\\derigate\\derigate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProgramStudy2\\新しいフォルダー\\derigate\\derigate\\derigate.csproj",
+        "projectUniqueName": "C:\\ProgramStudy2\\progaram2\\derigate\\derigate\\derigate.csproj",
         "projectName": "derigate",
-        "projectPath": "C:\\ProgramStudy2\\新しいフォルダー\\derigate\\derigate\\derigate.csproj",
+        "projectPath": "C:\\ProgramStudy2\\progaram2\\derigate\\derigate\\derigate.csproj",
         "packagesPath": "C:\\Users\\NatsukiAlen\\.nuget\\packages\\",
-        "outputPath": "C:\\ProgramStudy2\\新しいフォルダー\\derigate\\derigate\\obj\\",
+        "outputPath": "C:\\ProgramStudy2\\progaram2\\derigate\\derigate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NatsukiAlen\\AppData\\Roaming\\NuGet\\NuGet.Config",
